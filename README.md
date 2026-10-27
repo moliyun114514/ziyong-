@@ -1,0 +1,2 @@
+# ziyong-
+只使用Astrbot的用户没有连DeepSeek懒得经常去网页看余额，那可以按个这个直接在Astrbot里直接知道自己有多少token（其实就是大肥鱼桌宠改的））
